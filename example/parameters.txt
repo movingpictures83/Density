@@ -1,0 +1,4 @@
+otufile	plugins/Density/example/asv_abund.norm.transpose.csv
+mapping	plugins/Density/example/asv_map.csv
+tree	plugins/Density/example/asv_tax.csv
+target	ASV_22

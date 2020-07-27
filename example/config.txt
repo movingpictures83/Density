@@ -1,0 +1,2 @@
+Prefix plugins/Density/example
+Plugin Density inputfile parameters.txt outputfile density
